@@ -12,6 +12,14 @@ function App() {
           <Hero name = "Tiago"/>
           <Enemy name = "Nigue"/>
         </Arena>
+		<Arena arena="Castelo Amizade">
+          <Hero name = "Guthyerri"/>
+          <Enemy name = "Inimiego"/>
+        </Arena>
+		<Arena arena="Castelo Red">
+          <Hero name = "Brena"/>
+          <Enemy name = "Jefferson"/>
+        </Arena>
       </World>
     </div>
   )
